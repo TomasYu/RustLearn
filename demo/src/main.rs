@@ -8,6 +8,7 @@ fn main() {
 
 mod errors;
 mod formate_test;
+mod type_test;
 
 
 
