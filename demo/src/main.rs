@@ -9,6 +9,7 @@ fn main() {
 mod errors;
 mod formate_test;
 mod type_test;
+mod cosutom_type;
 
 
 
